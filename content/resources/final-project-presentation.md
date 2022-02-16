@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: Slides
+optional_text: Slides ([PDF - 5.0MB](resources/mit22_033f11_final_slides))
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Final Project Presentation
 uid: 174ac1ed-a2b1-68c1-a4e3-ac720e6e2600

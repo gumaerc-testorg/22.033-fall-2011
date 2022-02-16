@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-033-nuclear-systems-design-project-fall-2011/e2580c7c402054f99c38499ba7cc4b70_reactorpiece.jpg
+file: /media/courses/22-033-nuclear-systems-design-project-fall-2011/e2580c7c402054f99c38499ba7cc4b70_reactorpiece.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Making Content Tangible
+parent_type: CourseSection
 resourcetype: Image
 title: reactorpiece.jpg
 uid: e2580c7c-4020-54f9-9c38-499ba7cc4b70

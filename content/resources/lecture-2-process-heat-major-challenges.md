@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: Slides ([PDF](resources/mit22_033f11_lec02))
+parent_title: Lecture Videos and Class Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Process Heat - Major Challenges'
 uid: 65c291be-3583-6276-4763-e6703d830f6d

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-033-nuclear-systems-design-project-fall-2011/1ca120b6ce97b3ffa71a34287a4a3ff3_syllabus_fig1.gif
+file: /media/courses/22-033-nuclear-systems-design-project-fall-2011/1ca120b6ce97b3ffa71a34287a4a3ff3_syllabus_fig1.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: syllabus_fig1.gif
 uid: 1ca120b6-ce97-b3ff-a71a-34287a4a3ff3

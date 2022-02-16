@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b2b5d32e-3add-2c5a-a0ac-8e02d4bd077c
 ---
@@ -370,7 +372,7 @@ Process Heat schematic development
 Lec 6
 {{< tdclose >}}
 {{< tdopen >}}
-CaC2/acetylene block diagram
+CaC{{< sub "2" >}}/acetylene block diagram
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -385,7 +387,7 @@ CaC2/acetylene block diagram
 Lec 7
 {{< tdclose >}}
 {{< tdopen >}}
-Qualitative optimization of CaC2/acetylene block diagram
+Qualitative optimization of CaC{{< sub "2" >}}/acetylene block diagram
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -400,7 +402,7 @@ Qualitative optimization of CaC2/acetylene block diagram
 Rec 7
 {{< tdclose >}}
 {{< tdopen >}}
-Optimizing the CaC2/acetylene block diagram using EES
+Optimizing the CaC{{< sub "2" >}}/acetylene block diagram using EES
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -447,7 +449,7 @@ Rec 8
 {{< tdopen >}}
 
 
-Modifying the CaC2/Acetylene system using EES
+Modifying the CaC{{< sub "2" >}}/Acetylene system using EES
 
 LyX advanced topics
 

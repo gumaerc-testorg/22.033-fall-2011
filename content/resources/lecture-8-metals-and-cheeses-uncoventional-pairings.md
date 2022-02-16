@@ -2,6 +2,17 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: 'Slides ([PDF - 6.6MB](resources/mit22_033f11_lec08))
+
+
+  Menu, or "Metallographic Phenomena As Observed in Cheeses" ([PDF](resources/mit22_033f11_lec08_menu))'
+parent_title: Lecture Videos and Class Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Metals and Cheeses - Uncoventional Pairings'
 uid: 263c5651-ea7d-643e-e0e4-a12b172888da

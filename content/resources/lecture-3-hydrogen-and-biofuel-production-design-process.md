@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: Slides ([PDF](resources/mit22_033f11_lec03))
+parent_title: Lecture Videos and Class Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Hydrogen and Biofuel Production; Design Process'
 uid: 4c5bf2d1-d906-7b27-a913-9c3bd5b6f554

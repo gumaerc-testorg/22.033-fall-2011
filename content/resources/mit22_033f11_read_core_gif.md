@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding readings.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-033-nuclear-systems-design-project-fall-2011/8a0fbf6f803723768811c2a087625134_MIT22_033F11_read_core_gif.pdf
+file: /media/courses/22-033-nuclear-systems-design-project-fall-2011/8a0fbf6f803723768811c2a087625134_MIT22_033F11_read_core_gif.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: MIT22_033F11_read_core_gif.pdf
 uid: 8a0fbf6f-8037-2376-8811-c2a087625134

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: Slides
+optional_text: Slides ([PDF - 1.1MB](resources/mit22_033f11_proj_p2_core))
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Core Sub-task Presentation II
 uid: 4b8652ba-f4fb-055a-bd3a-3256f4574fab

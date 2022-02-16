@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: Slides ([PDF - 1.6MB](resources/mit22_033f11_lec01))
+parent_title: Lecture Videos and Class Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Core - Nonconventional (Non-PWR/BWR) Reactors'
 uid: e6ef62e4-5c4b-d43e-85f2-ffed6904dc59

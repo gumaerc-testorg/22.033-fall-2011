@@ -1,11 +1,13 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 title: Instructor Insights
 uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 ---
 
-//<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "&raquo;", backText: "&laquo;", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
+//\<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "&raquo;", backText: "&laquo;", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
 
 Course Overview
 ---------------
@@ -58,20 +60,6 @@ Curriculum Information
 ### Offered
 
 *   Every fall
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![22-033_classroom-1.png]({{< resource_file 06ae73e3-abf2-763a-fa24-d798aff06123 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-      
-    
-    All class sessions were held in medium-sized classrooms like this one. Tables and chairs were sometimes moved to accommodate group work.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

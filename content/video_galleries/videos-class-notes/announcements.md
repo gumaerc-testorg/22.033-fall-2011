@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Lecture Videos and Class Notes
+parent_type: CourseSection
 parent_uid: 9117e4ec-27cd-11cf-dead-0199547b42a6
 title: Announcements
 uid: 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886
@@ -179,9 +183,9 @@ We've finished regarding the Journal 1 resubmissions. I am impressed with the ex
 _Topic:_ Acetylene Block Diagram, Ongoing Optimization  
 _Posted by:_ Michael Short
 
-I've generated and posted a block diagram in Inkscape that covers the CaC2/acetylene example we went over in class. It includes color block diagrams from each iteration in the calcium carbide / acetylene system design.
+I've generated and posted a block diagram in Inkscape that covers the CaC{{< sub "2" >}}/acetylene example we went over in class. It includes color block diagrams from each iteration in the calcium carbide / acetylene system design.
 
-*   CaC2/acetylene block diagram ([PNG](/courses/nuclear-engineering/22-033-nuclear-systems-design-project-fall-2011/videos-class-notes/announcements/lec07_blockdiagram.png))
+*   CaC{{< sub "2" >}}/acetylene block diagram ([PNG](/courses/nuclear-engineering/22-033-nuclear-systems-design-project-fall-2011/videos-class-notes/announcements/lec07_blockdiagram.png))
 
 Please have a look at this diagram, as it contains an example of the general methodology for optimizing the systems you will be working on (especially hydrogen and biofuels). We will be continuing to work from this diagram, so I recommend printing it out (in color, if possible) for easier note taking.
 
@@ -193,7 +197,7 @@ We will be talking about the next qualitative steps in its optimization tomorrow
 _Topic:_ Need Help on Your Designs? Ask us!  
 _Posted by:_ Michael Short
 
-I hope the CaC2/acetylene example we showed in class this week (Lecture 6 and 7) was helpful to you in learning how to iterate and optimize a design. I know we pulled tons of material out of the air, and it can be very difficult to gain intuition as to where to attack first, which battles to choose, which assumptions to make, how to simplify things using simple models, etc.
+I hope the CaC{{< sub "2" >}}/acetylene example we showed in class this week (Lecture 6 and 7) was helpful to you in learning how to iterate and optimize a design. I know we pulled tons of material out of the air, and it can be very difficult to gain intuition as to where to attack first, which battles to choose, which assumptions to make, how to simplify things using simple models, etc.
 
 That being said, I wish to remind you that Tyrell and I are always available by appointment to look over your designs at any stage in the process. If you need help with anything, or just don't know where to go next, please let us know, and we will be happy to help you along.
 

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-033-nuclear-systems-design-project-fall-2011/48ee06c9e34de3f434e97c7b1219f82c_classroom-image.JPG
+file: /media/courses/22-033-nuclear-systems-design-project-fall-2011/48ee06c9e34de3f434e97c7b1219f82c_classroom-image.JPG
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Guiding Students Through Each Phase of the Course
+parent_type: CourseSection
 resourcetype: Image
 title: classroom-image.JPG
 uid: 48ee06c9-e34d-e3f4-34e9-7c7b1219f82c

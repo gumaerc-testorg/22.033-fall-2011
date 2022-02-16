@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1c3e103b-90af-39bd-44e4-7bcdaa1a5133
 ---
@@ -13,7 +16,7 @@ Follow the style and flow of these short journal articles as a template.
 
 Todreas, N. E., and P. Hejzlar. "[Letter to the Editor on the Paper by D. C. Groeneveld and L.K.H. Leung, 'The 1995 Look-up Table for Critcal Heat Flux in Tubes'](http://dx.doi.org/10.1016/0029-5493(95)01155-2)." _Nuclear Engineering and Design_ 163, no. 1–2 (1996): 25–6.
 
-Verrall, R. A., and P. G. Lucuta. "[Specific Heat Measurements of UO2 and SIMFUEL.](http://dx.doi.org/10.1016/S0022-3115(95)00238-3)" _Journal of Nuclear Materials_ 228, no. 2 (1996): 251–3.
+Verrall, R. A., and P. G. Lucuta. "[Specific Heat Measurements of UO{{< sub "2" >}} and SIMFUEL.](http://dx.doi.org/10.1016/S0022-3115(95)00238-3)" _Journal of Nuclear Materials_ 228, no. 2 (1996): 251–3.
 
 Short Journal Article 1
 -----------------------

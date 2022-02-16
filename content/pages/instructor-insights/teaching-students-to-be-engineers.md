@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 title: Teaching Students to Be Engineers
 uid: b830ab64-2e27-3513-cb30-a2f98c366c75

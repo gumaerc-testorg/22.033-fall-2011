@@ -1,6 +1,9 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Lecture Videos and Class Notes
 uid: 9117e4ec-27cd-11cf-dead-0199547b42a6
 videos:
@@ -442,7 +445,7 @@ Recitation: Schematic development
 Lec 6
 {{< tdclose >}}
 {{< tdopen >}}
-CaC2/acetylene block diagram
+CaC{{< sub "2" >}}/acetylene block diagram
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -457,7 +460,7 @@ CaC2/acetylene block diagram
 Lec 7
 {{< tdclose >}}
 {{< tdopen >}}
-Qualitative optimization of CaC2/acetylene block diagram
+Qualitative optimization of CaC{{< sub "2" >}}/acetylene block diagram
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -480,7 +483,7 @@ Qualitative optimization of CaC2/acetylene block diagram
 Rec 7
 {{< tdclose >}}
 {{< tdopen >}}
-Optimizing the CaC2/acetylene block diagram using EES
+Optimizing the CaC{{< sub "2" >}}/acetylene block diagram using EES
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -535,7 +538,7 @@ Rec 8
 {{< tdopen >}}
 
 
-Modifying the CaC2/Acetylene system using EES
+Modifying the CaC{{< sub "2" >}}/Acetylene system using EES
 
 LyX advanced topics
 

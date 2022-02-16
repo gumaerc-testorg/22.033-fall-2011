@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-033-nuclear-systems-design-project-fall-2011/06ae73e3abf2763afa24d798aff06123_22-033_classroom-1.png
+file: /media/courses/22-033-nuclear-systems-design-project-fall-2011/06ae73e3abf2763afa24d798aff06123_22-033_classroom-1.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: CourseSection
 resourcetype: Image
 title: 22-033_classroom-1.png
 uid: 06ae73e3-abf2-763a-fa24-d798aff06123

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7317e966-c286-7ada-19ec-040eb36eae6c
 ---
@@ -121,7 +123,7 @@ The process heat group is responsible for optimizing the thermodynamic parameter
 Hydrogen
 {{< tdclose >}}
 {{< tdopen >}}
-The hydrogen group is responsible for choosing and optimizing a technology to generate hydrogen using the process heat from the reactor. This includes selecting a method/technology for hydrogen production, constructing an overall H2 plant diagram, and dealing with materials & safety issues related to hydrogen production. This group is also responsible for calculating the output of their sub-plant, both in terms of monetary income as well as determining how much fossil fuels can be displaced by using their H2.
+The hydrogen group is responsible for choosing and optimizing a technology to generate hydrogen using the process heat from the reactor. This includes selecting a method/technology for hydrogen production, constructing an overall H{{< sub "2" >}} plant diagram, and dealing with materials & safety issues related to hydrogen production. This group is also responsible for calculating the output of their sub-plant, both in terms of monetary income as well as determining how much fossil fuels can be displaced by using their H{{< sub "2" >}}.
 {{< tdclose >}}
 
 {{< trclose >}}

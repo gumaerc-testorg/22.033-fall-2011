@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: Slides
+optional_text: Slides ([PDF - 1.8MB](resources/mit22_033f11_projp2biofuel))
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Biofuels Sub-task Presentation II
 uid: 6b87da3c-ca80-5545-3cd2-71fece798d12

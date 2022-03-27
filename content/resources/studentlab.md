@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Teaching Students to Be Engineers
 parent_type: CourseSection
+parent_uid: b830ab64-2e27-3513-cb30-a2f98c366c75
 resourcetype: Image
 title: engineer
 uid: 92f3adfe-9ea2-26b9-b210-8c847eb215d1

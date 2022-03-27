@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1c3e103b-90af-39bd-44e4-7bcdaa1a5133
 resourcetype: Document
 title: MIT22_033F11_asn_journal2a.pdf
 uid: d7bbd0a8-c369-bbe2-40b6-aa046507ceda

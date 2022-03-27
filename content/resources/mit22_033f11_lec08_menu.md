@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos and Class Notes
 parent_type: CourseSection
+parent_uid: 9117e4ec-27cd-11cf-dead-0199547b42a6
 resourcetype: Document
 title: MIT22_033F11_lec08_menu.pdf
 uid: 6e88de96-d782-548a-4aff-bb31e528b240

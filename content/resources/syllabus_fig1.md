@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 7317e966-c286-7ada-19ec-040eb36eae6c
 resourcetype: Image
 title: syllabus_fig1.gif
 uid: 1ca120b6-ce97-b3ff-a71a-34287a4a3ff3

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: CourseSection
+parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 resourcetype: Image
 title: 22-033-insights.png
 uid: c92e620d-3480-6f66-04c9-c320e0bbfccd

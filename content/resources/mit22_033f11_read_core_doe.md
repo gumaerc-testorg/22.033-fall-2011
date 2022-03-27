@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 419d3fd0-ab12-5a58-8ea5-8e93bccacff6
 resourcetype: Document
 title: MIT22_033F11_read_core_doe.pdf
 uid: 6a2afa14-552d-7d18-ad15-a726bbd3334f

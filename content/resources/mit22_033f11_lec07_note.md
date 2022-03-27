@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos and Class Notes
 parent_type: CourseSection
+parent_uid: 9117e4ec-27cd-11cf-dead-0199547b42a6
 resourcetype: Document
 title: MIT22_033F11_lec07_note.pdf
 uid: 4a2d1059-fade-1cce-993a-fc566d35e42d

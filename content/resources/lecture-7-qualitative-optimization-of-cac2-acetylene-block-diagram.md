@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Qualitative Optimization of CaC2/Acetylene Block Diagram'
 uid: 8ca215f4-1f7e-5e4f-64b5-5266686ca8dd
 video_files:

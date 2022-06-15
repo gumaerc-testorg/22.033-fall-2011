@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section describes the individual writing assignments: monthly individual
+  progress reports in the style of short journal articles.  Examples of student work
+  are also provided.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -79,9 +82,9 @@ Summarize your findings briefly (1 paragraph), and quickly state where you plan 
 
 The following two student submissions are examples of what we're looking for in this assignment. Pay close attention to style, formatting, referencing, abstract, organization, and using the passive voice. (Courtesy of the student authors, used with permission.)
 
-Verma, A. "Assessment of Heat Exchangers for Coupling a High Temperature Nuclear Reactor to Hydrogen and Biofuels Plants." ([PDF]({{< baseurl >}}/resources/mit22_033f11_asn_journal1a))
+Verma, A. "Assessment of Heat Exchangers for Coupling a High Temperature Nuclear Reactor to Hydrogen and Biofuels Plants." ({{% resource_link d4cd5d38-ac3a-bf70-774e-8438d57696f9 "PDF" %}})
 
-Sutherland, D. A. "Letter to the Editors on the Feasibility of Thermochemical and Bacterial Hydrogen Production Methods for Nuclear Systems." ([PDF]({{< baseurl >}}/resources/mit22_033f11_asn_journal1b))
+Sutherland, D. A. "Letter to the Editors on the Feasibility of Thermochemical and Bacterial Hydrogen Production Methods for Nuclear Systems." ({{% resource_link bdd7b6b4-7653-e8f5-eee6-aca39167550b "PDF" %}})
 
 ### Short Journal Article 1—Resubmission
 
@@ -108,8 +111,8 @@ Don't forget to do the following:
 
 Papers are presented courtesy of the students and used with permission.
 
-Chilton, L. "UT-3 Hydrogen Separation Process Mass Flow Rate Characterization and Selection of Zirconium Silica Hydrogen Separator Membrane." ([PDF]({{< baseurl >}}/resources/mit22_033f11_asn_journal2a))
+Chilton, L. "UT-3 Hydrogen Separation Process Mass Flow Rate Characterization and Selection of Zirconium Silica Hydrogen Separator Membrane." ({{% resource_link d7bbd0a8-c369-bbe2-40b6-aa046507ceda "PDF" %}})
 
-Otgonbaatar, U. "Overview of Slurry Phase Bubble Column Fischer Tropsch Synthesis Reactor and Relevant Design Parameters." ([PDF]({{< baseurl >}}/resources/mit22_033f11_asn_journal2b))
+Otgonbaatar, U. "Overview of Slurry Phase Bubble Column Fischer Tropsch Synthesis Reactor and Relevant Design Parameters." ({{% resource_link d2bde8a8-f8d9-9f79-0077-b5cc5e9aafd1 "PDF" %}})
 
-Salazar, A. "Implementation of Switchgrass as Feedstock for a Industrial Biofuels Process in a Nuclear Complex." ([PDF]({{< baseurl >}}/resources/mit22_033f11_asn_journal2c))
+Salazar, A. "Implementation of Switchgrass as Feedstock for a Industrial Biofuels Process in a Nuclear Complex." ({{% resource_link 6af8f3bd-38fd-b015-59b5-a5e8d95ba3df "PDF" %}})

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Short explains how the course was structured to
+  help students develop their professional communication skills.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -23,13 +25,13 @@ Ongoing Opportunities for Communication
 
 One thing that I did in this course that hadn't always been done in the past, which I think was absolutely essential, was to have regular scientific communication from the students in both oral and written form.
 
-*   **Monthly [progress report presentations]({{< baseurl >}}/video_galleries/projects)**: Each month, I had every student team of 3-4 people present a 20-minute progress report on what they had done so far as a team. That required them to talk about the background of the problem, the background of their sub-problem, how they solved it, where they were going, and how it meshed in with the rest of the design. They had to work together and actually communicate orally. We would nit-pick the heck out of them. In fact, I had the students evaluate each other, and oftentimes their ratings of each other were a lot lower than my ratings of them. I don’t know why, but they were each others’ best critics.
-*   **Monthly [short journal communications]({{< baseurl >}}/pages/assignments)**: Students were also required to submit monthly short journal communications on the work that they specifically had done, in the style of a scientific paper. A lot of students had never written papers or journal communications before. They had to read through examples, which they had to do anyway for the problem, and get their journal entries into that formal scientific writing style.
+*   **Monthly {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "progress report presentations" %}}**: Each month, I had every student team of 3-4 people present a 20-minute progress report on what they had done so far as a team. That required them to talk about the background of the problem, the background of their sub-problem, how they solved it, where they were going, and how it meshed in with the rest of the design. They had to work together and actually communicate orally. We would nit-pick the heck out of them. In fact, I had the students evaluate each other, and oftentimes their ratings of each other were a lot lower than my ratings of them. I don’t know why, but they were each others’ best critics.
+*   **Monthly {{% resource_link 1c3e103b-90af-39bd-44e4-7bcdaa1a5133 "short journal communications" %}}**: Students were also required to submit monthly short journal communications on the work that they specifically had done, in the style of a scientific paper. A lot of students had never written papers or journal communications before. They had to read through examples, which they had to do anyway for the problem, and get their journal entries into that formal scientific writing style.
 
 End-of-Term Opportunities for Communication
 -------------------------------------------
 
-At the end of the course, we had the students [assemble a final report and give a presentation]({{< baseurl >}}/video_galleries/projects) as an entire group. This required them to put together not just a 4-page journal communication like they’d been doing, but a 150-page document detailing every aspect of their design. They had to describe the problem, explain why it was worth solving, talk about its relevance, explain their solution, prove that their solution was a good one, and describe next steps.
+At the end of the course, we had the students {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "assemble a final report and give a presentation" %}} as an entire group. This required them to put together not just a 4-page journal communication like they’d been doing, but a 150-page document detailing every aspect of their design. They had to describe the problem, explain why it was worth solving, talk about its relevance, explain their solution, prove that their solution was a good one, and describe next steps.
 
 One of my favorite parts of the class was the combination of their dress rehearsal and final presentation. For the dress rehearsal, we held a late night pizza event where we had the students go through their entire final presentation, and I brought in a friend who works at a commercial nuclear plant to tear them to shreds. If they were going to be torn to shreds, I wanted it to before they were in front of a public audience.
 

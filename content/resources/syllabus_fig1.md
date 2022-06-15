@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-033-nuclear-systems-design-project-fall-2011/1ca120b6ce97b3ffa71a34287a4a3ff3_syllabus_fig1.gif
+file: /courses/22-033-nuclear-systems-design-project-fall-2011/1ca120b6ce97b3ffa71a34287a4a3ff3_syllabus_fig1.gif
 file_type: image/gif
 image_metadata:
   caption: ''

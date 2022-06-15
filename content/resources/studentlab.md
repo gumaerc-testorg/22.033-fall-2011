@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-033-nuclear-systems-design-project-fall-2011/92f3adfe9ea226b9b2108c847eb215d1_studentlab.JPG
+file: /courses/22-033-nuclear-systems-design-project-fall-2011/92f3adfe9ea226b9b2108c847eb215d1_studentlab.JPG
 file_type: image/jpeg
 image_metadata:
   caption: ''

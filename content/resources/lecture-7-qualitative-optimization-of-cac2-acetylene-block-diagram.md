@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: Notes ([PDF](resources/mit22_033f11_lec07_note))
+optional_text: Notes ([PDF](/courses/22-033-nuclear-systems-design-project-fall-2011/resources/mit22_033f11_lec07_note))
 parent_title: Lecture Videos and Class Notes
 parent_type: CourseSection
 related_resources_text: ''
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 This lecture is a sample of how to optimize a system block diagram. After summarizing the goal and initial results from the previous session, this lecture works through refinements in materials, thermal design, flow rates, environmental rules, etc.
+
+
+

@@ -1,5 +1,8 @@
 ---
 content_type: video_gallery
+description: This section presents student work and presentation videos about the
+  design project, with select progress reports, interim presentations, and the final
+  presentation and report.
 is_media_gallery: true
 learning_resource_types:
 - Projects
@@ -15,7 +18,7 @@ videos:
   website: 22-033-nuclear-systems-design-project-fall-2011
 ---
 
-A description of the project goals, structure, deliverables and schedule can be found on the [syllabus]({{< baseurl >}}/pages/syllabus). This page presents student work on the design project, with both interim presentations and the final presentation and report. (Courtesy of the students, used with permission.)
+A description of the project goals, structure, deliverables and schedule can be found on the {{% resource_link 7317e966-c286-7ada-19ec-040eb36eae6c "syllabus" %}}. This page presents student work on the design project, with both interim presentations and the final presentation and report. (Courtesy of the students, used with permission.)
 
 Teamwork Process
 ----------------
@@ -29,33 +32,33 @@ Sub-Task Presentations I
 
 These slides are from the first round of sub-task team presentations.
 
-Core ([PDF]({{< baseurl >}}/resources/mit22_033f11_proj_p1_core))
+Core ({{% resource_link a136eeac-004b-c74a-2184-8a5c51ea9705 "PDF" %}})
 
-Hydrogen ([PDF]({{< baseurl >}}/resources/mit22_033f11_proj_p1_h2))
+Hydrogen ({{% resource_link e58a7b21-e457-7e39-ed25-546adcbf907e "PDF" %}})
 
-Biofuels ([PDF]({{< baseurl >}}/resources/mit22_033f11_projp1biofuel))
+Biofuels ({{% resource_link 9488c675-0fab-03c4-492f-c732f2d5b953 "PDF" %}})
 
-Process Heat ([PDF]({{< baseurl >}}/resources/mit22_033f11_proj_p1_heat))  
+Process Heat ({{% resource_link e4b78b87-ef55-ce37-9d5b-2760ace09b5c "PDF" %}})  
 
 Sub-Task Presentations II
 -------------------------
 
 These videos and slides are from the second round of sub-task team presentations.  
 
-Core: [Video and slides]({{< baseurl >}}/resources/core-sub-task-presentation-ii)
+Core: {{% resource_link 4b8652ba-f4fb-055a-bd3a-3256f4574fab "Video and slides" %}}
 
-Hydrogen: [Video and slides]({{< baseurl >}}/resources/hydrogen-sub-task-presentation-ii)
+Hydrogen: {{% resource_link 008f31ae-69b7-4064-6bd1-7e473678498f "Video and slides" %}}
 
-Biofuels: [Video and slides]({{< baseurl >}}/resources/biofuels-sub-task-presentation-ii)
+Biofuels: {{% resource_link 6b87da3c-ca80-5545-3cd2-71fece798d12 "Video and slides" %}}
 
-Process Heat: Slides only ([PDF - 1.6MB]({{< baseurl >}}/resources/mit22_033f11_proj_p2_heat))
+Process Heat: Slides only ({{% resource_link 2cfea82f-273c-519d-fe34-d0dea81a4d05 "PDF - 1.6MB" %}})
 
 {{< anchor "Final" >}}{{< /anchor >}}Final Presentation and Report
 ------------------------------------------------------------------
 
-Final Presentation: [Video and slides]({{< baseurl >}}/resources/final-project-presentation)
+Final Presentation: {{% resource_link 174ac1ed-a2b1-68c1-a4e3-ac720e6e2600 "Video and slides" %}}
 
-Final Report ([PDF - 4.5MB]({{< baseurl >}}/resources/mit22_033f11_final_report))  
+Final Report ({{% resource_link 350c3177-9fc0-3863-7893-a7d967eff7f1 "PDF - 4.5MB" %}})  
 
 ### Postscript (from Dr. Short, a few weeks after the term ended)
 

@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: 'Slides ([PDF - 6.6MB](resources/mit22_033f11_lec08))
+optional_text: 'Slides ([PDF - 6.6MB](/courses/22-033-nuclear-systems-design-project-fall-2011/resources/mit22_033f11_lec08))
 
 
-  Menu, or "Metallographic Phenomena As Observed in Cheeses" ([PDF](resources/mit22_033f11_lec08_menu))'
+  Menu, or "Metallographic Phenomena As Observed in Cheeses" ([PDF](/courses/22-033-nuclear-systems-design-project-fall-2011/resources/mit22_033f11_lec08_menu))'
 parent_title: Lecture Videos and Class Notes
 parent_type: CourseSection
 related_resources_text: ''
@@ -28,3 +29,6 @@ video_metadata:
 ---
 
 This lecture explores the microstructure characteristics of metals in high temperature/high stress situations, via hands-on experience with similar structures and behaviors in selected cheeses. Cheese-tasting asides enrich the experience.
+
+
+

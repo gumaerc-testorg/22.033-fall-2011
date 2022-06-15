@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-033-nuclear-systems-design-project-fall-2011/589b003c34cccac51a05e7a5a8f7243a_couch-plus-computer.jpg
+file: /courses/22-033-nuclear-systems-design-project-fall-2011/589b003c34cccac51a05e7a5a8f7243a_couch-plus-computer.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

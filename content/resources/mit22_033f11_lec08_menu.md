@@ -5,6 +5,7 @@ file: /courses/22-033-nuclear-systems-design-project-fall-2011/6e88de96d782548a4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Class Notes
 parent_type: CourseSection

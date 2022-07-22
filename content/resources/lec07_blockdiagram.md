@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Announcements
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lec07_blockdiagram.png
 uid: 6ae78b32-a410-96de-4a56-2b34ab6efe8c
 ---
 This image shows the block diagram of calcium carbide / acetylene heating system.
-

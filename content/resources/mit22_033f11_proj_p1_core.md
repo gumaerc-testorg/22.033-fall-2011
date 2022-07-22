@@ -6,6 +6,7 @@ file: /courses/22-033-nuclear-systems-design-project-fall-2011/a136eeac004bc74a2
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT22_033F11_proj_p1_core.pdf
 uid: a136eeac-004b-c74a-2184-8a5c51ea9705
 ---
 This resource contains information regarding 22.033 core group—reactor concept and decision making process.
-

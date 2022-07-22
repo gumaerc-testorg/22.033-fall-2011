@@ -6,6 +6,7 @@ file: /courses/22-033-nuclear-systems-design-project-fall-2011/889f9a86620fbee05
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT22_033F11_proj_p2_core.pdf
 uid: 889f9a86-620f-bee0-555c-6b58489889f3
 ---
 This resource contains information regarding 22.033 core group—reactor core and secondary design.
-

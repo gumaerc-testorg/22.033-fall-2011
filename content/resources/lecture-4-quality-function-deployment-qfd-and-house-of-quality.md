@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 This lecture demonstrates Quality Function Deployment (QFD) methods, and more specifically the House of Quality diagram, to identify and manage design tradeoffs, using the example of a hypothetical new car design.
 
 There are no notes for this lecture, which is chalkboard-based.
-
-
 

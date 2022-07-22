@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: Slides ([PDF](/courses/22-033-nuclear-systems-design-project-fall-2011/resources/mit22_033f11_lec03))
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 This lecture contains three modules: (a) methods of hydrogen production; (b) methods of biofuel production; and (c) an approach to the engineering design process based on importance metrics and the House of Quality method.
-
-
 

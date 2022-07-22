@@ -5,6 +5,7 @@ file: /courses/22-033-nuclear-systems-design-project-fall-2011/9488c6750fab03c44
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT22_033F11_projp1biofuel.pdf
 uid: 9488c675-0fab-03c4-492f-c732f2d5b953
 ---
 This resource contains information regarding biofuels presentation.
-

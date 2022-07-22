@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Slides
 optional_text: Slides ([PDF - 1.8MB](/courses/22-033-nuclear-systems-design-project-fall-2011/resources/mit22_033f11_projp2biofuel))
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 The student team designing the biofuels subsystem gives its 2nd progress report, describing their block diagram, key parameters, and remaining steps for the final month of class.
-
-
 

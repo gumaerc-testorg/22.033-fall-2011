@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: Slides ([PDF](/courses/22-033-nuclear-systems-design-project-fall-2011/resources/mit22_033f11_lec02))
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 This lecture on Process Heat covers the three heat challenges: heat exchanger design, heat transport, and heat storage. The video starts with a few minutes reviewing the project team structure, roles, and goals.
-
-
 

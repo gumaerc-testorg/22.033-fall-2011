@@ -5,6 +5,7 @@ file: /courses/22-033-nuclear-systems-design-project-fall-2011/bdd7b6b47653e8f5e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT22_033F11_asn_journal1b.pdf
 uid: bdd7b6b4-7653-e8f5-eee6-aca39167550b
 ---
 This resource contains information regarding assignments.
-

@@ -1,20 +1,25 @@
 ---
 content_type: page
+description: Nuclear Systems Design Project is intended to bring students from a classroom
+  mindset to the practical reality of working as an engineer. In this section, Dr.
+  Short shares some of the engineering lessons his students learned.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 title: Teaching Students to Be Engineers
 uid: b830ab64-2e27-3513-cb30-a2f98c366c75
 ---
+*Nuclear Systems Design Project is intended to bring students from a classroom mindset to the practical reality of working as an engineer. In this section, Dr. Short shares some of the engineering lessons his students learned.*
 
-_Nuclear Systems Design Project is intended to bring students from a classroom mindset to the practical reality of working as an engineer. In this section, Dr. Short shares some of the engineering lessons his students learned._
-
-Preparing Students for Careers in Engineering
----------------------------------------------
+## Preparing Students for Careers in Engineering
 
 This course serves as a bridge between single-subject content courses and students' future careers as engineers. In single-subject courses, students are expected to master specific content and methods, thereby developing critical background for their future careers as engineers. Most often, these courses consist of lectures, problem sets, and exams. This course pushes students to apply and integrate that accumulated background, and it immerses students in engineering in the full sense of the word.
 
-{{< quote "This is a new experience for most students ... It’s demanding, eye-opening, and exhilarating." "— Dr. Short" >}}
+{{< quote "This is a new experience for most students … It’s demanding, eye-opening, and exhilarating." "— Dr. Short" >}}
 
 Students go through the engineering design process from start to finish. They search the literature, form and pursue original ideas, integrate and apply their knowledge, examine technical details, experience the complexities of engineering design, communicate and collaborate with each other, and communicate their final design in both oral and written form. Through experience, they learn a range of skills that are critical to their future success as engineers.
 
@@ -24,12 +29,7 @@ I took this course as an undergrad at MIT, and I had a blast. It was the first t
 
 Students learned a range of lessons about engineering through this class. Here are two specific examples.
 
-Engineering Lesson #1: The whole project is linked; an issue in one part will propagate all through the project.
-----------------------------------------------------------------------------------------------------------------
-
-![Dr. Short and a girl sit side by side working on a computer with the image of a colorful structure up on the screen.]({{< resource_file c09c5811-a027-bc2c-0713-d6596d9905f9 >}})
-
-Dr. Short works one-on-one with a student on the nuclear engineering project.
+## Engineering Lesson #1: The whole project is linked; an issue in one part will propagate all through the project.
 
 In this class, students worked in two teams on the project. One team designed a part of the project that produced hydrogen, while the other team designed a part of the project that produced biofuels. The link between them was the amount of hydrogen being supplied to the biofuels plant. In one instance, when teams were putting things together, they were off by a factor of 10. It's no big deal, right? It's just an extra 0. It turned out to be a huge deal because the hydrogen production plant then had to scale up their process by a factor of 10, requiring a lot more energy from the reactor and hence much bigger piping from the process heat group.
 
@@ -37,8 +37,7 @@ In other cases, one thing would go wrong all the way at the end point of the des
 
 In any place where the two teams didn't mesh together, the issue propagated through the entire project and the whole team felt the effect. That's where the frustration and the eventual learning of how to collaborate came in. I don't think they could have learned these lessons without the frustration.
 
-Engineering Lesson #2: Optimization requires many iterations.
--------------------------------------------------------------
+## Engineering Lesson #2: Optimization requires many iterations.
 
 One of the things students found surprising about this class was how many times they had to revisit the same work and the same problem. Part of that came from working together and making sure everyone's work was in line, and part of that was that if you have something this big, it has a lot of components. It's not just a problem set with an answer or an end-of-the-year design project where you design a small device and either it works or it doesn't.
 

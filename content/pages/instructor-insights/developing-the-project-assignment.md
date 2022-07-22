@@ -1,16 +1,20 @@
 ---
 content_type: page
+description: In this section, Dr. Short discusses how he chose the project for the
+  class. He also gives some examples of projects explored during past offerings of
+  the course.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 title: Developing the Project Assignment
 uid: 6000b1af-cb5b-372c-3189-1bdbcc47a489
 ---
-
 _In this section, Dr. Short discusses how he chose the project for the class. He also gives some examples of projects explored during past offerings of the course._
 
-Project Selection
------------------
+## Project Selection
 
 Each year, the class takes on a different overall course project. It can range from something that's been topical in the news to just an idea that the instructor came up with.
 
@@ -24,11 +28,10 @@ In the end, the project I settled upon for this class was the design of a combin
 
 This project involved a huge range of topics, from chemical to nuclear to mechanical to fluid engineering. For the fission people, there was a core to design and there was a reactor around it. For the fusion people, there were lots of materials issues at very high temperatures. For the safety and security people, there was the safety and security of the material in your plant. For the materials science people, things are made out of materials, so there was a lot to attack there. There was something for everybody.
 
-Projects from Other Semesters
------------------------------
+## Projects from Other Semesters
 
 Some examples of projects undertaken in other iterations of Nuclear Systems Design Project are
 
-*   Use of a fusion reactor for transmutation of nuclear waste;
-*   Design and implementation of an experiment to predict and measure pebble flow in a pebble bed reactor (project description ([PDF]({{< baseurl >}}/resources/mit22_033f11_f02-project-description))); and
-*   Development of a mission plan for a manned Mars mission, including the conceptual design of a nuclear powered space propulsion system and power plant for the Mars surface, a lunar/Martian nuclear power station, and the use of nuclear plants to extract oil from tar sands.
+- Use of a fusion reactor for transmutation of nuclear waste;
+- Design and implementation of an experiment to predict and measure pebble flow in a pebble bed reactor ({{% resource_link 7a3131ea-5cb7-0d9f-109b-ee0d075525b2 "project description (PDF)" %}}); and
+- Development of a mission plan for a manned Mars mission, including the conceptual design of a nuclear powered space propulsion system and power plant for the Mars surface, a lunar/Martian nuclear power station, and the use of nuclear plants to extract oil from tar sands.

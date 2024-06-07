@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-033-nuclear-systems-design-project-fall-2011/7da1444ee82c120d997774e7b8730b95_22-033_stat-students.png
+file_size: 2717
 file_type: image/png
 image_metadata:
   caption: ''

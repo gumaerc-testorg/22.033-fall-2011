@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding Biofuels Subgroup Progress
   Report.
 file: /courses/22-033-nuclear-systems-design-project-fall-2011/02f0148643539e89ff9f4b1bd12b833c_MIT22_033F11_projp2biofuel.pdf
+file_size: 1908658
 file_type: application/pdf
 learning_resource_types:
 - Projects

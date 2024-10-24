@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture notes.
-file: /courses/22-033-nuclear-systems-design-project-fall-2011/4a2d1059fade1cce993afc566d35e42d_MIT22_033F11_lec07_note.pdf
+file: /ol-ocw-studio-app/courses/22-033-nuclear-systems-design-project-fall-2011/4a2d1059fade1cce993afc566d35e42d_MIT22_033F11_lec07_note.pdf
 file_size: 699321
 file_type: application/pdf
 learning_resource_types:

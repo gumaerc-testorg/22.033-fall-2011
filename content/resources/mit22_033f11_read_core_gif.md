@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding readings.
-file: /courses/22-033-nuclear-systems-design-project-fall-2011/8a0fbf6f803723768811c2a087625134_MIT22_033F11_read_core_gif.pdf
+file: /ol-ocw-studio-app/courses/22-033-nuclear-systems-design-project-fall-2011/8a0fbf6f803723768811c2a087625134_MIT22_033F11_read_core_gif.pdf
 file_size: 994767
 file_type: application/pdf
 learning_resource_types:

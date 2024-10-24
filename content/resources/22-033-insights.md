@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-033-nuclear-systems-design-project-fall-2011/c92e620d34806f6604c9c320e0bbfccd_22-033-insights.png
+file: /ol-ocw-studio-app/courses/22-033-nuclear-systems-design-project-fall-2011/c92e620d34806f6604c9c320e0bbfccd_22-033-insights.png
 file_size: 163016
 file_type: image/png
 image_metadata:

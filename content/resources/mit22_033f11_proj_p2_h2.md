@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding hydrogen production progress
   update (II).
-file: /courses/22-033-nuclear-systems-design-project-fall-2011/76374a248b20cb49ad4dfc739f235e3f_MIT22_033F11_proj_p2_h2.pdf
+file: /ol-ocw-studio-app/courses/22-033-nuclear-systems-design-project-fall-2011/76374a248b20cb49ad4dfc739f235e3f_MIT22_033F11_proj_p2_h2.pdf
 file_size: 1294361
 file_type: application/pdf
 learning_resource_types:

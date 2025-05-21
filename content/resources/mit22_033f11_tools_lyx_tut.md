@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding tools.
-file: /ol-ocw-studio-app/courses/22-033-nuclear-systems-design-project-fall-2011/b5515bef41f14f0270ed5359f861cf1e_MIT22_033F11_tools_lyx_tut.pdf
+file: /courses/22-033-nuclear-systems-design-project-fall-2011/b5515bef41f14f0270ed5359f861cf1e_MIT22_033F11_tools_lyx_tut.pdf
 file_size: 314780
 file_type: application/pdf
 learning_resource_types:

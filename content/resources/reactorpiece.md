@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-033-nuclear-systems-design-project-fall-2011/e2580c7c402054f99c38499ba7cc4b70_reactorpiece.jpg
+file: /ol-ocw-studio-app/courses/22-033-nuclear-systems-design-project-fall-2011/e2580c7c402054f99c38499ba7cc4b70_reactorpiece.jpg
 file_size: 26302
 file_type: image/jpeg
 image_metadata:

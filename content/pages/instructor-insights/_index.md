@@ -45,7 +45,7 @@ In the following pages, Dr. Short discusses specific aspects of his experience a
 
 ### Requirements Satisfied
 
-- [Nuclear Science and Engineering degree requirement](http://catalog.mit.edu/degree-charts/nuclear-science-engineering-course-22/)
+- {{% resource_link "3db5a2ed-4615-47e1-bebb-69277dbdd88b" "Nuclear Science and Engineering degree requirement" %}}
 
 ### Offered
 
@@ -108,4 +108,4 @@ To design the course project, structure and run the course, work with students, 
 ### Teaching Assistant
 
 - To serve as a second instructor, particularly during group work sessions, and to provide and work through examples with students.
-- To bring the [Gordon Engineering Leadership Program](http://web.mit.edu/gordonelp/) into the course by teaching students about engineering leadership, including how to lead and organize a project, how to work with all different types of people, how to budget time, and how to develop a backup plan.
+- To bring the {{% resource_link "07135ba5-9cf3-4ae5-a12c-2b72b101257a" "Gordon Engineering Leadership Program" %}} into the course by teaching students about engineering leadership, including how to lead and organize a project, how to work with all different types of people, how to budget time, and how to develop a backup plan.

@@ -41,20 +41,20 @@ Also, the technologies I've presented in class are certainly not a complete list
 
 These two heat exchanger references are very valuable. Not only do they give you the basics of heat exchanger design, they also have a ton of good references at the end of each section.
 
-Hewitt, G. F., executive editor. *Heat Exchanger Design Handbook*. 5 volumes. Begell House. \[MIT Libraries has the 1998 edition; the publisher has recently launched a [fee-based online edition](http://hedh.begellhouse.com/).\]
+Hewitt, G. F., executive editor. *Heat Exchanger Design Handbook*. 5 volumes. Begell House. \[MIT Libraries has the 1998 edition; the publisher has recently launched a {{% resource_link "b80b9cfa-8de1-4db6-aedd-4a2fd9cf768e" "fee-based online edition" %}}.\]
 
 Shah, R. K., and D. P. Sekulic. *Fundamentals of Heat Exchanger Design*. John Wiley & Sons, 2002. ISBN: 9780471321712.
 
 I also came across free downloadable heat transfer textbook by MIT MechE Professor John Lienhard. Chapter 3 has some really good pictures to show what heat exchangers look like and it covers the basics of design.
 
-Lienhard, J. H. IV, and J. H. Lienhard V. [*A Heat Transfer Textbook*](http://web.mit.edu/lienhard/www/ahtt.html). 4th ed. Dover Publications, 2011. ISBN: 9780486479316.
+Lienhard, J. H. IV, and J. H. Lienhard V. {{% resource_link "7a7c72b1-2518-4c2b-a317-5a2e1d85143f" "*A Heat Transfer Textbook*" %}}. 4th ed. Dover Publications, 2011. ISBN: 9780486479316.
 
 ## {{< anchor "annc_3" >}}{{< /anchor >}}Recitation 2 Follow Up
 
 *Topics:* Gantt Chart; EES and Heat Transfer   
 *Posted by:* Tyrell Arment
 
-This is the [Gantt chart template for Excel](http://www.vertex42.com/ExcelTemplates/excel-gantt-chart.html) that we used in class. You can download it for free. It does have a few tricks to get used to, but it is a very convenient way to display a lot of information.
+This is the {{% resource_link "51dbe639-7eb6-4f34-a3fb-8b7d6c021d1c" "Gantt chart template for Excel" %}} that we used in class. You can download it for free. It does have a few tricks to get used to, but it is a very convenient way to display a lot of information.
 
 I am still planning on holding a recitation related to thermal design using the EES computer program whenever that gets operational; however, in the mean time I know that some of you have questions on general heat exchanger design concepts. I would recommend reading through Chapter 11 of the *Introduction to Heat Transfer* book by Incropera, DeWitt, Bergman, and Lavine if you have it available.
 
@@ -92,11 +92,11 @@ I will be covering a basic Rankine power cycle calculation with some optimizatio
 
 I found a few links that I think you all would be interested in reading and watching that are related to our discussion today.
 
-On engineering knowledge and responsibility: Petroski, Henry. "[Engineering Knowledge and Responsibility](http://www.project-syndicate.org/commentary/historical-memory-and-engineering-failures)." *Project Syndicate*, May 11, 2004.
+On engineering knowledge and responsibility: Petroski, Henry. "{{% resource_link "a6fac5f3-e277-4ac4-bb06-1a8c6abdcca0" "Engineering Knowledge and Responsibility" %}}." *Project Syndicate*, May 11, 2004.
 
-On innovation: dizzo95. "Henry Ford Biography." April 16, 2009. YouTube. Accessed April 2, 2012. [http://www.youtube.com/watch?v=GnZgWM7NmwA](http://www.youtube.com/watch?v=GnZgWM7NmwA)
+On innovation: dizzo95. "Henry Ford Biography." April 16, 2009. YouTube. Accessed April 2, 2012. {{% resource_link "8f22bc73-1fec-4058-8fe9-8e77eb9f7562" "http://www.youtube.com/watch?v=GnZgWM7NmwA" %}}
 
-On planning and managing a project to completion: [Wikipedia: Henry J. Kaiser](http://en.wikipedia.org/wiki/Henry_J._Kaiser)
+On planning and managing a project to completion: {{% resource_link "3325dd48-deab-4904-8ea9-f420f22f75f8" "Wikipedia: Henry J. Kaiser" %}}
 
 ## {{< anchor "annc_8" >}}{{< /anchor >}}Project Work 3 Follow Up
 
@@ -161,7 +161,7 @@ Thanks in advance for your responses, and we'll see you tomorrrow!
 *Topic:* Recitation 6 preview; Journal 1 Resubmission   
 *Posted by:* Michael Short
 
-Recitation tomorrow will begin with a quick talk by [StartLabs.org](https://startup.mit.edu/), an entrepreneurship non-profit that helps recruit people for many kinds of startups, including energy. If you are interested in starting or joining a new venture, I encourage you to attend.
+Recitation tomorrow will begin with a quick talk by {{% resource_link "daf6605e-bc7a-422b-a516-3fe19a82147b" "StartLabs.org" %}}, an entrepreneurship non-profit that helps recruit people for many kinds of startups, including energy. If you are interested in starting or joining a new venture, I encourage you to attend.
 
 Following that (which will be quite short), I'll be working with the Process Heat group to develop their schematic. Anyone is welcome to stay and ask any questions you may have during recitation, though it isn't required to attend for other groups.
 

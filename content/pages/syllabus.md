@@ -174,7 +174,7 @@ Deliverables
 
 The deliverables for the course include **two individual progress reports** ("short journal communications"), **three sub-task progress presentations**, and a **final report & presentation**. As you can see from the schedule below, the course is front-loaded. The reason for this is that if the schedule is followed, all the major work for the course will be finished before the Thanksgiving vacation. This will leave you more free to focus on final exams for other courses when you need that time the most.
 
-When writing your short communications and final report, I recommend using a software package called {{% resource_link "268d69ab-f566-42ec-80ed-a6b50eadfacd" "LyX" %}} for preparing the written material. It allows you to link figures, tables, sections and references by tag, rather than keeping track of every section, figure and reference number. It will remove most of the grunt work from writing reports, allowing you to save time and focus on your results.
+When writing your short communications and final report, I recommend using a software package called [LyX](http://www.lyx.org) for preparing the written material. It allows you to link figures, tables, sections and references by tag, rather than keeping track of every section, figure and reference number. It will remove most of the grunt work from writing reports, allowing you to save time and focus on your results.
 
 ### Individual Progress Reports (Short Journal Communications)
 
